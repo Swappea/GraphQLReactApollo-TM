@@ -1,2 +1,0 @@
-# GraphQLReactApollo-TM
-GraphQLReactApollo-TM
